@@ -175,7 +175,8 @@ A continuously expanded list of frameworks, libraries and tools I used/want to u
 - [sortable](http://github.hubspot.com/sortable/docs/welcome/) - Makes tables sortable
 - [tablesaw](https://github.com/filamentgroup/tablesaw) - A group of plugins for responsive tables
 - [tui-grid](https://ui.toast.com/tui-grid/) - Widget to visualize and edit data via its table representation
-- [x-spreadsheet](https://github.com/myliang/x-spreadsheet) - A web-based spreadsheet 
+- [x-spreadsheet](https://github.com/myliang/x-spreadsheet) - A web-based spreadsheet
+- [shadcn/ui](https://ui.shadcn.com/) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable.
 
 **[ back to top](#table-of-contents)**
 
@@ -306,6 +307,7 @@ A continuously expanded list of frameworks, libraries and tools I used/want to u
 - [camanjs](http://camanjs.com/) - Combination of a simple-to-use interface with advanced and image/canvas editing techniques
 - [grafijs](http://grafijs.org/) - Library with basic image processing functions
 - [smartcrop](https://github.com/jwagner/smartcrop.js/) - Content aware image cropping
+- [Sharp](https://sharp.pixelplumbing.com/) - High performance Node.js image processing  
 
 **[ back to top](#table-of-contents)**
 
