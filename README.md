@@ -1,7 +1,7 @@
 Frontend Store
 ==============
 
-A continuously expanded list of frameworks, libraries and tools I used/want to use for building things on the web. Mostly Javascript stuff.
+A continuously expanded list of frameworks, libraries and tools we've use/want to use for building things on the web. Mostly Javascript stuff.
 
 ## Table of Contents
 - [CSS/UI Frameworks](#cssui-frameworks)
