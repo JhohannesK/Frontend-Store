@@ -4,42 +4,43 @@ Frontend Store
 A continuously expanded list of frameworks, libraries and tools we've use/want to use for building things on the web. Mostly Javascript stuff.
 
 ## Table of Contents
-- [CSS/UI Frameworks](#cssui-frameworks)
-- [Frontend Frameworks/UI Component Libraries](#frontend-frameworks-ui-component-libraries)
+- [3D/WebGL Frameworks](#3dwebgl-frameworks)
 - [Allrounder](#allrounder-jquery-like) (jQuery like)
-- [Charts](#charts)
-- [Maps](#maps)
-- [Tables & Spreadsheets](#tables--spreadsheets)
-- [Selects](#selects)
-- [Loaders](#loaders)
-- [UI Elements](#ui-elements)
-- [Content Slider/Carousels](#content-slidercarousels)
-- [Typography/Text](#typographytext)
-- [Video](#video)
+- [Animations](#animations)
 - [Audio](#audio)
 - [Canvas and SVG](#canvas-and-svg)
-- [3D/WebGL Frameworks](#3dwebgl-frameworks)
-- [Image Processing](#image-processing)
-- [Scrolling](#scrolling)
-- [Touch Gestures](#touch-gestures)
-- [Animations](#animations)
-- [Templating](#templating)
-- [HTTP Requests](#http-requests)
-- [Events](#events)
-- [Icons](#icons)
+- [Charts](#charts)
 - [Colors](#colors)
+- [Content Slider/Carousels](#content-slidercarousels)
+- [CSS/UI Frameworks](#cssui-frameworks)
 - [Databases/Storage](#databasesstorage)
-- [Validation](#validation)
 - [Dates](#dates)
-- [Internationalization](#internationalization)
-- [Numbers & Currencies](#numbers--currencies)
-- [Statistics & data analysis](#statistics--data-analysis)
-- [Module Loaders](#module-loaders)
-- [Lazy Loading](#lazy-loading)
-- [Neural Networks](#neural-networks)
-- [Social](#social)
-- [Utility Libraries](#utility-libraries)
+- [Events](#events)
+- [Frontend Frameworks/UI Component Libraries](#frontend-frameworks-ui-component-libraries)
 - [General](#general)
+- [HTTP Requests](#http-requests)
+- [Icons](#icons)
+- [Image Processing](#image-processing)
+- [Internationalization](#internationalization)
+- [Lazy Loading](#lazy-loading)
+- [Loaders](#loaders)
+- [Maps](#maps)
+- [Module Loaders](#module-loaders)
+- [Neural Networks](#neural-networks)
+- [Numbers & Currencies](#numbers--currencies)
+- [ORMs](#orms)
+- [Scrolling](#scrolling)
+- [Selects](#selects)
+- [Social](#social)
+- [Statistics & data analysis](#statistics--data-analysis)
+- [Tables & Spreadsheets](#tables--spreadsheets)
+- [Templating](#templating)
+- [Touch Gestures](#touch-gestures)
+- [Typography/Text](#typographytext)
+- [UI Elements](#ui-elements)
+- [Utility Libraries](#utility-libraries)
+- [Validation](#validation)
+- [Video](#video)
 
 ### CSS/UI Frameworks
 - [base](http://matthewhartman.github.io/base/) - Responsive CSS framework with IE7+ support
@@ -268,6 +269,11 @@ A continuously expanded list of frameworks, libraries and tools we've use/want t
 - [tonal](https://github.com/danigb/tonal) - A functional music theory library
 - [vexflow](http://www.vexflow.com/) - Library for rendering music notation
 - [wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) - Navigable waveform
+
+**[ back to top](#table-of-contents)**
+
+### ORMs
+- [Prisma](https://www.prisma.io/) - a next-generation Node.js and TypeScript ORM that unlocks a new level of developer experience when working with databases thanks to its intuitive data model, automated migrations, type-safety & auto-completion.
 
 **[ back to top](#table-of-contents)**
 
